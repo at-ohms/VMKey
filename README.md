@@ -7,6 +7,10 @@ __Requirements__
 - argparse
 - pyvmomi
 
-__Usage__
+__Usages__
+
+VMKey.py -h
+
+__Examples__
 
 ![](VMKey.gif)
